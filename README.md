@@ -1,5 +1,5 @@
 # BCG X - Introduction to Data for Decision Makers - Job Simulation
-(Analyzed using Jupyter Notebook)
+analyzed using Jupyter Notebook
 
 ## Introduction
 In this simulation, I joined the BCG X team on a fast-paced retail project. The client, NewCo, is a big box retailer that has just completed a multi-channel marketing campaign testing different messages (sales-focused vs. brand-focused) and channels (emails, Instagram, etc.). The BCG X team is partnering with NewCo to drive business growth and develop a sustainable long-term strategy.
