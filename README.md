@@ -39,31 +39,31 @@ This task aims at campaign performance analysis.
 
 - Activities:
 1. Conversion & Sales Analysis
-- Approach:
+- ** Approach **:
 - Filtered dataset to focus only on new customers.
 - Calculated conversion rate (percentage of new customers who purchased) by campaign + channel.
 - Summarized total sales for each campaign + channel combination.
 - Visualized results using bar charts for clarity.
-- Findings:
+- ** Findings **:
 - Campaign B + Email had the highest conversion rate (~64.5%).
 - Campaign A + Email generated the highest total sales ($2124.47).
 - Instagram and Web Banner channels underperformed in both conversion and sales.
-- Final Recommendation:
+- ** Final Recommendation **:
 - Email is the strongest channel for new customer acquisition.
 - Campaign A (conversational tone) via Email should be prioritized for revenue impact.
 - Campaign B (promotional tone) via Email can be used tactically for quick conversions.
 
 2. Efficiency & Weighted Ranking
-- Approach:
+- ** Approach **:
 - Engineered a new metric: Sales per Second on Site (efficiency).
 - Normalized metrics (conversion, sales, efficiency) to make them comparable.
 - Built a weighted scoring model (40% conversion, 40% sales, 20% efficiency).
 - Ranked all campaign + channel combinations.
-- Findings:
+- ** Findings **:
 - Campaign A + Email achieved the highest overall weighted score (~0.95).
 - Campaign B + Email ranked second (~0.83).
 - Other channels scored below 0.3, showing weak performance.
-- Final Recommendation:
+- ** Final Recommendation **:
 - Double down on Campaign A + Email — it balances conversion, revenue, and efficiency.
 - Use Campaign B + Email as a secondary strategy for promotions.
 - Reduce spend on Instagram and Web Banner for acquisition; they are not cost-effective.
