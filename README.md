@@ -29,7 +29,7 @@ Task 2 – Visualize and present my insights. Help the client understand what wo
 ## Task 1:
 This task aims to dig deeper into the data to focus on what matters most to the client: new customer growth.
 
-**Activities:**
+### Activities:
 1. Conversion & Sales Analysis
 **Approach:**
 - Filtered dataset to focus only on new customers.
