@@ -26,7 +26,7 @@ Activities:
   
 ## Task 2:
 This task aims at campaign performance analysis.
-Note:
+* Note:
 1. The campaign included two versions of messaging:
 - Campaign A used an informal, conversational tone.
 - Campaign B used a more sales-focused, promotional tone.
