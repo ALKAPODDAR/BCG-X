@@ -21,16 +21,16 @@ client wants to know:
 - Website Banner 
 3. Focus on: “Which campaign + channel combo should we double down on to grow new customer sales—and why?”
 
-The job simulation was broken down into two tasks:
-Task 1 – Analyze campaign performance. Compare how different strategies performed across formats, messages, and customer groups.
-Task 2 – Visualize and present my insights. Help the client understand what worked, why it matters, and where to go from here.
+The job simulation task involves:
+– Analyze campaign performance. Compare how different strategies performed across formats, messages, and customer groups.
+– Visualize and present my insights. Help the client understand what worked, why it matters, and where to go from here.
 
   
-## Task 1:
+## Task:
 This task aims to dig deeper into the data to focus on what matters most to the client: new customer growth.
 
 ### Activities:
-1. Conversion & Sales Analysis:
+**1. Conversion & Sales Analysis:**
    
 **Approach:**
 - Filtered dataset to focus only on new customers.
@@ -48,7 +48,7 @@ This task aims to dig deeper into the data to focus on what matters most to the 
 - Campaign A (conversational tone) via Email should be prioritized for revenue impact.
 - Campaign B (promotional tone) via Email can be used tactically for quick conversions.
 
-2. Efficiency & Weighted Ranking:
+**2. Efficiency & Weighted Ranking:**
 
 **Approach:**
 - Engineered a new metric: Sales per Second on Site (efficiency).
