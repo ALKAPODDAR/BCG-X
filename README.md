@@ -30,7 +30,8 @@ Task 2 – Visualize and present my insights. Help the client understand what wo
 This task aims to dig deeper into the data to focus on what matters most to the client: new customer growth.
 
 ### Activities:
-1. Conversion & Sales Analysis
+1. Conversion & Sales Analysis:
+   
 **Approach:**
 - Filtered dataset to focus only on new customers.
 - Calculated conversion rate (percentage of new customers who purchased) by campaign + channel.
@@ -47,7 +48,8 @@ This task aims to dig deeper into the data to focus on what matters most to the 
 - Campaign A (conversational tone) via Email should be prioritized for revenue impact.
 - Campaign B (promotional tone) via Email can be used tactically for quick conversions.
 
-2. Efficiency & Weighted Ranking
+2. Efficiency & Weighted Ranking:
+
 **Approach:**
 - Engineered a new metric: Sales per Second on Site (efficiency).
 - Normalized metrics (conversion, sales, efficiency) to make them comparable.
