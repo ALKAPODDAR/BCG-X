@@ -22,7 +22,7 @@ This task aims at analyzing how different strategies performed across formats, m
 
 Activities:
 1. Reviewed the raw data as a dataframe in jupyter notebook
-2. Analyzed measures like 'Total Sales by Channel', 'Total Sales by Campaign'
+2. Analyzed measures like 'Total Sales by Channel', 'Total Sales by Campaign', etc.
   
 ## Task 2:
 This task aims at campaign performance analysis.
