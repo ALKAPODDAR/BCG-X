@@ -67,7 +67,8 @@ This task aims to dig deeper into the data to focus on what matters most to the 
 - Reduce spend on Instagram and Web Banner for acquisition; they are not cost-effective.
 
 
-Suggestion: 
+
+Note  Provided: 
 - Some strategies that work overall might not be the best at attracting new customers. 
 - Segmenting by customer type helps us uncover which message and channel combinations were most effective for first-time buyers, exactly what the client cares about.
 
