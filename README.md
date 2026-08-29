@@ -11,7 +11,7 @@ client wants to know:
 - What drove engagement from new customers?
 - Where should we focus our marketing investment next quarter—and why?
 
-* Note:
+**Note:**
 1. The campaign included two versions of messaging:
 - Campaign A used an informal, conversational tone.
 - Campaign B used a more sales-focused, promotional tone.
